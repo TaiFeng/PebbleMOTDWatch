@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "HaiTechEric",
+    "longName": "MOTD Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MOTD Watch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "54d3118f-3346-462c-995c-0d0b4e01148c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
